@@ -1,1 +1,1 @@
-# Project-1---Japanese-Practice-Mobile-App
+# Project-1---Mobile-App
